@@ -1,6 +1,6 @@
 ```
 $ whoami
-$ ty natsuhara
+ty natsuhara
 ```
 
 Welcome to my slice of double-u double-u double-u dot GitHub dot com. I'm a software engineer in Seattle, making games and other silly things in my free time.
